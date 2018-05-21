@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D4586BB20B13AD200096DAA /* BitcoinModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D4586BA20B13AD200096DAA /* BitcoinModel.swift */; };
 		9DC0B57520B0D99F00B18798 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DC0B57420B0D99F00B18798 /* AppDelegate.swift */; };
 		9DC0B57720B0D99F00B18798 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DC0B57620B0D99F00B18798 /* ViewController.swift */; };
 		9DC0B57A20B0D99F00B18798 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DC0B57820B0D99F00B18798 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9D4586BA20B13AD200096DAA /* BitcoinModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitcoinModel.swift; sourceTree = "<group>"; };
 		9DC0B57120B0D99F00B18798 /* BitcoinPrice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BitcoinPrice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DC0B57420B0D99F00B18798 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DC0B57620B0D99F00B18798 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				9DC0B58020B0D9A100B18798 /* LaunchScreen.storyboard */,
 				9DC0B58320B0D9A100B18798 /* Info.plist */,
 				9DC0B57B20B0D99F00B18798 /* BitcoinPrice.xcdatamodeld */,
+				9D4586BA20B13AD200096DAA /* BitcoinModel.swift */,
 			);
 			path = BitcoinPrice;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				9DC0B57720B0D99F00B18798 /* ViewController.swift in Sources */,
 				9DC0B57D20B0D99F00B18798 /* BitcoinPrice.xcdatamodeld in Sources */,
+				9D4586BB20B13AD200096DAA /* BitcoinModel.swift in Sources */,
 				9DC0B57520B0D99F00B18798 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
